@@ -20,6 +20,18 @@ We can now access Azure MySQL from MySQL Workbench setting the hostname, usernam
 
 We run **MySQL Workbench** and we create a new connection
 
+![image](https://github.com/luiscoco/Azure_MySQL_database_sample/assets/32194879/d9b15ade-9287-4ee3-a823-7c069d3f5882)
 
+We input the new connection data
+
+![image](https://github.com/luiscoco/Azure_MySQL_database_sample/assets/32194879/6a4a4128-909f-4c25-b418-dfbc581415fe)
+
+For input the password press the **Store in Vault** button
+
+![image](https://github.com/luiscoco/Azure_MySQL_database_sample/assets/32194879/69bcae6e-f4e1-41af-9682-e24fed6fde37)
+
+Now we can test the connection pressing on the **Test connection** button 
+
+![image](https://github.com/luiscoco/Azure_MySQL_database_sample/assets/32194879/ca86f888-4e09-4a90-b536-5c054ae4bc97)
 
 ![image](https://github.com/luiscoco/Azure_MySQL_database_sample/assets/32194879/2fcf9252-d1ed-40d2-8a77-2e013f890f3b)
