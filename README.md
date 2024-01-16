@@ -32,6 +32,8 @@ For input the password press the **Store in Vault** button
 
 Now we can test the connection pressing on the **Test connection** button 
 
+![image](https://github.com/luiscoco/Azure_MySQL_database_sample/assets/32194879/dc4aa2c0-eec2-4e82-b1b7-6b50f5c894c8)
+
 ![image](https://github.com/luiscoco/Azure_MySQL_database_sample/assets/32194879/ca86f888-4e09-4a90-b536-5c054ae4bc97)
 
 ![image](https://github.com/luiscoco/Azure_MySQL_database_sample/assets/32194879/2fcf9252-d1ed-40d2-8a77-2e013f890f3b)
